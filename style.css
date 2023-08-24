@@ -101,7 +101,7 @@ table {
 
 .profile-pics-header,
 .profile-pics-header2{
-    background-image: url(./Admin.jpeg);
+    background-image: url(./images/Admin.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -297,19 +297,19 @@ table {
 }
 
 .boti{
-    background-image: url(./monkey-3.jpeg);
+    background-image: url(./images/monkey-3.jpeg);
 }
 
 .danika{
-    background-image: url(./monkey-2.jpeg);
+    background-image: url(./images/monkey-2.jpeg);
 }
 
 .gabi{
-    background-image: url(./monkey-1.jpeg);
+    background-image: url(./images/monkey-1.jpeg);
 }
 
 .kriszti{
-    background-image: url(./monkey-4.jpeg);
+    background-image: url(./images/monkey-4.jpeg);
 }
 
 
